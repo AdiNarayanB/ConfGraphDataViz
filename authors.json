@@ -1,0 +1,10 @@
+{
+  "AuthorName1": ["Conference1", "Conference2", "Conference3"],
+  "AuthorName2": ["Conference3", "Conference4", "Conference5"],
+  "AuthorName3": ["Conference2", "Conference4", "Conference6"],
+  "AuthorName4": ["Conference1", "Conference3", "Conference5"],
+  "AuthorName5": ["Conference4", "Conference6"],
+  "AuthorName6": ["Conference1", "Conference4", "Conference5"],
+  "AuthorName7": ["Conference2", "Conference3", "Conference6"]
+}
+
